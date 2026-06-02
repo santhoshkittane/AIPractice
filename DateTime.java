@@ -4,6 +4,7 @@ import java.time.format.DateTimeFormatter;
 /**
  * Simple program that prints the current date and time.
  */
+//Author is Santhosh
 public class DateTime {
 
     public static void main(String[] args) {
