@@ -13,7 +13,7 @@ public class Premitive_Types {
 		//System.out.println("Overall Items are"+intStream.count());
 		//System.out.println("Average is "+intStream.average());
 		//System.out.println("Overall Items are"+intStream.count());
-		intStream.filter(i->i%2==0).forEach(System.out::println);
+		intStream.filter(i->i%2!=0).forEach(System.out::println);
 		
 		
 		};
