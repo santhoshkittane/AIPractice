@@ -16,7 +16,7 @@ public class Premitive_Types {
 		intStream.filter(i->i%2!=0).forEach(System.out::println);
 		
 		
-		};
+		}
 		
 		}
 
